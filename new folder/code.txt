@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"Hello world" 
-=======
-"hello world xin chao ho va ten sv 1" 
->>>>>>> 0306231359-TaTanCuong-sv1
+"Hello World" 
